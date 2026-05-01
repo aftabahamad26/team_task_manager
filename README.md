@@ -1,5 +1,5 @@
 # Team Task Manager
-A full-stack project management application built with the MERN stack (MongoDB, Express, React, Node.js).
+
 
 
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
